@@ -11,7 +11,7 @@ int main()
 
 	if (X == 1)
 	{
-		printf("1 / 1");
+		printf("1/1");
 		return (0);
 	}
 	while (i < X)
