@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX 10000000
+#define MAX 1000000
 
 int arr[MAX];
 
