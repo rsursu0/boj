@@ -16,7 +16,6 @@ int main()
 		scanf("%s", str);
 		origin[i] = str;
 		i++;
-		free(str);
 	}
 	i = 0;
 	while (i < M)
@@ -25,7 +24,6 @@ int main()
 		scanf("%s", str);
 		comp[i] = str;
 		i++;
-		free(str);
 	}
 	for (int i = 0; i < N; i++)
 	{
